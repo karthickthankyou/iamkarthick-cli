@@ -1,0 +1,23 @@
+{
+  "name": "karthick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "karthick": "index.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickthankyou/iamkarthick-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickthankyou/iamkarthick-cli/issues"
+  },
+  "homepage": "https://github.com/karthickthankyou/iamkarthick-cli#readme",
+  "keywords": ["Karthick", "Personal"]
+}
