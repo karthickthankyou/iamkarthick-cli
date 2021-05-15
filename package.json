@@ -1,6 +1,6 @@
 {
   "name": "karthick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -19,5 +19,8 @@
     "url": "https://github.com/karthickthankyou/iamkarthick-cli/issues"
   },
   "homepage": "https://github.com/karthickthankyou/iamkarthick-cli#readme",
-  "keywords": ["Karthick", "Personal"]
+  "keywords": [
+    "Karthick",
+    "Personal"
+  ]
 }
